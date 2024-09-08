@@ -35,8 +35,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/stock-market-prediction.git
-   cd stock-market-prediction
+   git clone https://github.com/rohitrwt73/PricePredictor.git
+   cd PricePredictor
    ```
 
 2. **Install dependencies**:
@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 3. **Run the Streamlit application**:
    ```bash
-   streamlit run stock_price_prediction.py
+   streamlit run stockMarket.py
    ```
 
 ## Usage
